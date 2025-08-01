@@ -1,5 +1,16 @@
 # @better-auth/sso
 
+## 1.3.5
+
+### Patch Changes
+
+- Updated dependencies [e4af253]
+- Updated dependencies [b27221b]
+- Updated dependencies [d1d593f]
+- Updated dependencies [29c0df5]
+- Updated dependencies [978b285]
+  - better-auth@1.3.5
+
 ## 1.3.4
 
 ### Patch Changes
